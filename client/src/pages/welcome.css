@@ -1,0 +1,78 @@
+body {
+    font-family: 'Dancing Script', cursive;
+}
+
+h1, h2, h3, p {
+    font-family: 'Roboto Slab', serif;
+    font-style: italic;
+}
+
+/* Additional styles for specific elements */
+
+h1 {
+    font-size: 76px;
+}
+
+.loginpart{
+    margin: 20px;
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+    align-items: center;
+
+}
+
+
+.first{
+    margin: 30px;
+    display:flex;
+    justify-content: space-around;
+    
+
+}
+.firs{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.twoo{
+    display: flex;
+    justify-content: center;
+    
+}
+.second{
+    
+    background-color: '#030637';
+    border: 1px;
+    border-color: black;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius:20px ;
+    margin: 10px;
+    border-style: solid;
+    
+   
+}
+.im{
+    border: 0px;
+    border-radius: 0px;
+    
+}
+
+.six{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.five{
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.four{
+    margin: 20px;
+}
+
+
+
